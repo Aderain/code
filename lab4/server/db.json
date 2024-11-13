@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "test@mail.ru",
+      "password": "test",
+      "otp": "413163",
+      "otpExpires": 1731524304604
+    }
+  ]
+}
